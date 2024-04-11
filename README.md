@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&fontSize=0" width="100%"/>
 <!-- Title Typing Effect -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=40&pause=1000&random=false&width=435&height=100&lines=Welcome+to+SigLee's+Repository" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=40&pause=1000&random=false&width=500&height=100&lines=Welcome+to+SigLee's+Repository" alt="Typing SVG" /></a>
 
 
 <div align="center">  
